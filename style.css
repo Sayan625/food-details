@@ -171,6 +171,7 @@ margin-top: 3.5rem ;
 }
 
 @media only screen and (max-width: 500px) {
+    
     /* For mobile phones: */
     .meal-result {
         display: grid;

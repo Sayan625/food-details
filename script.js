@@ -31,7 +31,6 @@ function getData(searchValue){
     })
 }
 
-
 searchBtn.addEventListener('click', () => {
     let searchValue = document.getElementById('search-input')
     getData(searchValue)
